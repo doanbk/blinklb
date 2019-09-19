@@ -1,0 +1,6 @@
+framework module blinklb {
+  umbrella header "blinklb-umbrella.h"
+
+  export *
+  module * { export * }
+}

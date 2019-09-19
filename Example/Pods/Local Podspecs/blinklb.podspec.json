@@ -1,0 +1,22 @@
+{
+  "name": "blinklb",
+  "version": "0.1.0",
+  "summary": "A short description of blinklb.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lynhancapital@gmail.com/blinklb",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lynhancapital@gmail.com": "doannguyenhong@tcom.vn"
+  },
+  "source": {
+    "git": "https://github.com/lynhancapital@gmail.com/blinklb.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "blinklb/Classes/**/*"
+}

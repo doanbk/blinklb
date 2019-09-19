@@ -1,0 +1,16 @@
+PODS:
+  - blinklb (0.1.0)
+
+DEPENDENCIES:
+  - blinklb (from `../`)
+
+EXTERNAL SOURCES:
+  blinklb:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  blinklb: 861b6fb9c9f4c8c652d5e4db1d0f6c526a26ad68
+
+PODFILE CHECKSUM: c6f7c60857c448796db4d6d39e511e93323e9bb8
+
+COCOAPODS: 1.6.1
