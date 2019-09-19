@@ -29,9 +29,9 @@
 
 /* Begin PBXFileReference section */
 		1DEFB12039FB669D0F9F8A18 /* Pods-blinklb_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-blinklb_Example.debug.xcconfig"; path = "Target Support Files/Pods-blinklb_Example/Pods-blinklb_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		24B98C48C71FDB22B3FE0696 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		33D6EADF1C4E80F35EB98362 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		41041A48BE4DCF6C99CDBC28 /* blinklb.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = blinklb.podspec; path = ../blinklb.podspec; sourceTree = "<group>"; };
+		24B98C48C71FDB22B3FE0696 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		33D6EADF1C4E80F35EB98362 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		41041A48BE4DCF6C99CDBC28 /* blinklb.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = blinklb.podspec; path = ../blinklb.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* blinklb_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = blinklb_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -156,7 +156,6 @@
 				E6447D1F6AFC60E1C3B61098 /* Pods-blinklb_Tests.debug.xcconfig */,
 				7D770E46ED764CD38C312249 /* Pods-blinklb_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
